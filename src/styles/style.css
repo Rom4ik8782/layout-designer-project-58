@@ -1,7 +1,71 @@
 /** CSS STYLE **/
-
 .hello {
   display: block;
 
   color: #fff;
+}
+body {
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  line-height: 1.6em;
+  color: #2a2626;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Roboto", sans-serif;
+  line-height: 1.2em;
+}
+h1 {
+  font-size: 72px;
+}
+h2 {
+  font-size: 60px;
+}
+h3 {
+  font-size: 34px;
+}
+section {
+  max-width: 1110px;
+  align-content: center;
+  margin: 100px 0 100px;
+}
+head {
+  background-color: #fff;
+  width: auto;
+  height: auto;
+}
+.color-white {
+  color: #fff;
+}
+.color-translucent-white {
+  color: #d7ccc0;
+}
+.color-bright {
+  color: #f5f4f0;
+}
+.color-main {
+  color: fe8a02;
+}
+.color-maint-dark {
+  color: #42413c;
+}
+.color-dark {
+  color: #2a2626;
+}
+.color-translucent-dark {
+  color: #908d8b;
+}
+.color-brown {
+  color: #b09a81;
+}
+.color-blue {
+  color: #1085c5;
+}
+.wrapper {
+  min-height: 100%;
+  overflow: hidden;
 }
